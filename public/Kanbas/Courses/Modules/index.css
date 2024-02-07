@@ -1,0 +1,68 @@
+.wd-modules,
+.wd-modules * {
+  border-radius: 0%;
+  border: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.wd-modules {
+  margin: 5px;
+}
+
+.wd-modules > li {
+  background-color: lightgray;
+  border: 1px solid gray !important;
+  border-left: none !important;
+}
+
+.wd-modules > li > div {
+  padding: 6px;
+  border-left: 1px solid gray !important;
+}
+
+.wd-modules > li > ul > li {
+  padding: 5px;
+  border-top: 1px solid gray !important;
+  border-left: 2px solid green;
+}
+
+.wd-modules > li {
+  margin-bottom: 20px;
+}
+
+ .btn-light-gray {
+  background-color: #f0f0f0;
+  color: #333;
+  border-color: transparent;
+  padding: 5px 10px; 
+  
+}
+
+.btn-danger {
+  padding: 5px 10px; 
+ 
+}
+
+select.btn {
+  border-radius: 0;
+}
+.btn-light-gray-2 {
+  background-color: #f0f0f0;
+  color: #333;
+  border-color: #f8f9fa;
+  width: 100%;
+  margin-bottom: 0; 
+  border-radius: 0; 
+}
+.btn-group-vertical {
+  width: 100%;
+}
+.red-link {
+  color: #dc3545;
+  text-decoration: none;
+}
+
+.red-link:hover {
+  color: #c82333;
+}
