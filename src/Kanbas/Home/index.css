@@ -1,0 +1,17 @@
+.home-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .btn-light-gray-2 {
+    background-color: #f0f0f0;
+    color: #333;
+    border-color: #f8f9fa;
+    padding: 5px 25px; 
+    font-size: 14px;
+    height: 30px; 
+    line-height: 30px; 
+    margin-bottom: 5px; 
+    border-radius: 0; 
+  }
+  
